@@ -1,0 +1,5 @@
+arquivo       : data/raw\gaming_mental_health_database.csv
+data_ingestao : 2026-03-21 16:50:30
+tamanho_mb    : 165.24
+total_linhas  : 1000000
+status        : RAW - sem alteracoes
